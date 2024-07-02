@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🐦 こんにちは、鳥鳥太郎です！ Hello, I am TriTriTaro!
 
-<!--
-**TriTriTaro/TriTriTaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+趣味でプログラミングを楽しんでいる、学生です。  
+I am a student who enjoys programming as a hobby.
 
-Here are some ideas to get you started:
+## ❤️ 好きなプログラム言語 Favorite programming language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+「使える」と言うには烏滸がましいので、「好き」と書きました。  
+I wrote "favorite" because it is too impertinent to say "available."
+
+- 🎨 Processing  
+絵を良い感じに作れて、楽しい！  
+It's fun to make a good picture!
+- 🍋 C/C++  
+動作が速いから、好き！  
+I like it because it works fast!
+
+- 🔬 Haskell  
+関数的な書き方が、カッコいい！  
+The functional writing style is cool!
